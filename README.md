@@ -2,4 +2,4 @@ This repository contains two Unity projects developed for the Interaction in Vir
 
 IAV TP3 - Mobile-Controlled Maze Game - A Unity-based game where the player controls a tilting maze using the orientation of a mobile device.
 
-IAV PRJS - Mobile-Controlled Minecraft Environment - An extension of a Minecraft-inspired Unity environment, where the player’s camera and character rotation are controlled using mobile device orientation instead of mouse input.
+IAV PRJ - Mobile-Controlled Minecraft Environment - An extension of a Minecraft-inspired Unity environment, where the player’s camera and character rotation are controlled using mobile device orientation instead of mouse input.
